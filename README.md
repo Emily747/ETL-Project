@@ -24,7 +24,7 @@ Final_Region_Table
 <br>
 <br>
 <br>
-Export to Mysql
+3. Export to Mysql
 <br>
 a.	Taster etl
 <br>

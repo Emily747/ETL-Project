@@ -12,6 +12,8 @@ Homework 13, ETL Project
   
 Script location: ETL-Project/SQL Scripts/WineRatingsDatabase.sql 
 <br>
+<br>
+<br>
 2.	Data cleaning:
 <br>
 1.	WorldBankAPI_GDP.ipynb
@@ -19,6 +21,8 @@ Script location: ETL-Project/SQL Scripts/WineRatingsDatabase.sql
 2.	WineData1.ipynb
 <br>
 3.	Final_Region_Table
+<br>
+<br>
 <br>
 Export to Mysql
 <br>

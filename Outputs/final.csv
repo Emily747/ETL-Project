@@ -1,0 +1,400 @@
+stateId,country,state,GDP,countryId
+0,Portugal,Douro,0,31
+1,US,Oregon,"238,687",39
+3,Spain,Northern Spain,0,36
+4,Italy,Sicily & Sardinia,0,22
+5,France,Alsace,0,15
+7,US,California,"2,935,332",39
+11,Argentina,Other,0,1
+12,Argentina,Mendoza Province,0,1
+24,Chile,Colchagua Valley,0,9
+26,France,Beaujolais,0,15
+27,Chile,Maule Valley,0,9
+30,France,Bordeaux,0,15
+32,Chile,Maipo Valley,0,9
+33,US,Washington,"559,011",39
+35,Italy,Central Italy,0,22
+37,France,Champagne,0,15
+39,France,Burgundy,0,15
+46,Italy,Southern Italy,0,22
+50,Australia,South Australia,0,3
+52,Chile,Rapel Valley,0,9
+53,Spain,Galicia,0,36
+54,France,France Other,0,15
+59,Italy,Tuscany,0,22
+64,Austria,Burgenland,0,4
+70,Chile,Leyda Valley,0,9
+87,South Africa,Stellenbosch,0,35
+88,South Africa,Simonsberg-Stellenbosch,0,35
+96,Portugal,Alentejano,0,31
+99,Spain,Central Spain,0,36
+103,France,Southwest France,0,15
+106,Chile,Aconcagua Valley,0,9
+112,Chile,Loncomilla Valley,0,9
+114,New Zealand,Marlborough,0,29
+120,Chile,Casablanca Valley,0,9
+123,South Africa,Western Cape,0,35
+126,Italy,Northeastern Italy,0,22
+127,Israel,Judean Hills,0,21
+128,Portugal,Alentejo,0,31
+133,South Africa,Coastal Region,0,35
+134,France,Rhône Valley,0,15
+140,Israel,Galilee,0,21
+142,Portugal,Beira Atlantico,0,31
+144,Hungary,Tokaj,0,19
+150,US,New York,"1,675,685",39
+171,Austria,Leithaberg,0,4
+172,Greece,Santorini,0,18
+176,Austria,Kremstal,0,4
+180,Spain,Catalonia,0,36
+190,New Zealand,Hawke's Bay,0,29
+191,Chile,Curicó Valley,0,9
+194,Chile,Limarí Valley,0,9
+197,Chile,Colchagua Costa,0,9
+198,France,Languedoc-Roussillon,0,15
+199,France,Provence,0,15
+206,Australia,Victoria,0,3
+210,Italy,Piedmont,0,22
+211,Hungary,Tokaji,0,19
+226,Italy,Veneto,0,22
+241,Chile,Central Valley,0,9
+242,Chile,Lontué Valley,0,9
+255,Austria,Weinviertel,0,4
+270,Austria,Niederösterreich,0,4
+272,Austria,Wagram,0,4
+275,France,Loire Valley,0,15
+277,Italy,Lombardy,0,22
+280,Canada,Ontario,0,8
+309,Austria,Österreichischer Sekt,0,4
+386,Austria,Kamptal,0,4
+388,Austria,Steiermark,0,4
+389,Austria,Südsteiermark,0,4
+397,Greece,Crete,0,18
+400,Mexico,Valle de Guadalupe,0,26
+407,Portugal,Vinho Verde,0,31
+409,US,Idaho,"76,187",39
+430,Portugal,Tejo,0,31
+435,Australia,Western Australia,0,3
+450,Spain,Levante,0,36
+489,New Zealand,Martinborough,0,29
+493,New Zealand,Central Otago,0,29
+497,Portugal,Lisboa,0,31
+515,Portugal,Península de Setúbal,0,31
+523,Australia,Australia Other,0,3
+531,Australia,Tasmania,0,3
+696,Romania,Dealu Mare,0,32
+755,South Africa,Darling,0,35
+756,Portugal,Port,0,31
+822,Chile,Chile,0,9
+837,Austria,Südoststeiermark,0,4
+839,Greece,Corinth,0,18
+843,Greece,Halkidiki,0,18
+846,Germany,Rheinhessen,0,17
+859,Turkey,Thrace,0,38
+910,South Africa,Robertson,0,35
+911,Germany,Pfalz,0,17
+924,Israel,Dan,0,21
+940,Italy,Northwestern Italy,0,22
+946,Spain,Andalucia,0,36
+960,New Zealand,Awatere Valley,0,29
+961,Austria,Wiener Gemischter Satz,0,4
+979,Austria,Wachau,0,4
+995,US,Pennsylvania,"788,842",39
+1005,South Africa,Swartland,0,35
+1012,Portugal,Dão,0,31
+1073,Chile,Rio Claro,0,9
+1080,Hungary,Villány,0,19
+1086,Chile,Cachapoal Valley,0,9
+1118,Romania,Jidvei,0,32
+1182,US,America,0,39
+1233,Austria,Traisental,0,4
+1239,Portugal,Bairrada,0,31
+1242,Israel,Negev Hills,0,21
+1250,Portugal,Ribatejano,0,31
+1314,Portugal,Duriense,0,31
+1378,Portugal,Beiras,0,31
+1393,Spain,Spanish Islands,0,36
+1412,Israel,Upper Galilee,0,21
+1460,Portugal,Vinho Espumante,0,31
+1508,Greece,Epanomi,0,18
+1545,Greece,Nemea,0,18
+1562,Greece,Peloponnese,0,18
+1583,Chile,Aconcagua Costa,0,9
+1677,Portugal,Terras do Dão,0,31
+1688,Portugal,Beira Interior,0,31
+1773,Romania,Panciu,0,32
+1878,US,New Jersey,"626,684",39
+1949,Chile,Bío Bío Valley,0,9
+1955,Romania,Romania,0,32
+2067,Portugal,Minho,0,31
+2111,US,Virginia,"532,896",39
+2134,Italy,Italy Other,0,22
+2155,Portugal,Bucelas,0,31
+2203,Chile,Peumo,0,9
+2258,Austria,Thermenregion,0,4
+2301,Austria,Carnuntum,0,4
+2311,Portugal,Estremadura,0,31
+2331,New Zealand,Canterbury,0,29
+2380,Spain,Spain Other,0,36
+2448,Greece,Drama,0,18
+2454,Israel,Ella Valley,0,21
+2466,Germany,Mosel,0,17
+2531,Luxembourg,Moselle Luxembourgeoise,0,24
+2589,South Africa,Walker Bay,0,35
+2636,Greece,Pangeon,0,18
+2653,Chile,Elqui Valley,0,9
+2659,New Zealand,Wairau Valley,0,29
+2767,Portugal,Portuguese Table Wine,0,31
+2800,Croatia,Istria,0,11
+2810,Croatia,Peljesac,0,11
+2834,Georgia,Kakheti,0,16
+2837,Uruguay,Canelones,0,41
+2858,England,England,0,14
+2970,Chile,Marchigue,0,9
+2976,South Africa,Paarl,0,35
+3380,Austria,Weinland Österreich,0,4
+3397,Greece,Mantinia,0,18
+3453,Greece,Chalkidiki,0,18
+3465,Lebanon,Lebanon,0,23
+3504,Portugal,Setubal,0,31
+3517,Germany,Württemberg,0,17
+3527,Germany,Mosel-Saar-Ruwer,0,17
+3589,Serbia,Pocerina,0,33
+3622,Canada,British Columbia,0,8
+3624,Chile,Puente Alto,0,9
+3654,New Zealand,Kumeu,0,29
+3668,Portugal,Trás-os-Montes,0,31
+3689,Israel,Shomron,0,21
+3723,Greece,Rapsani,0,18
+3740,Australia,New South Wales,0,3
+3781,New Zealand,Nelson,0,29
+3782,New Zealand,Waipara Valley,0,29
+3792,South Africa,Constantia,0,35
+3928,Germany,Rheingau,0,17
+3930,Chile,San Antonio,0,9
+3932,Germany,Nahe,0,17
+4043,Romania,Recas,0,32
+4132,Brazil,Pinto Bandeira,0,6
+4239,Slovenia,Primorska,0,34
+4244,Moldova,Moldova,0,27
+4253,Uruguay,Uruguay,0,41
+4256,Morocco,Zenata,0,28
+4334,Czech Republic,Moravia,0,13
+4529,South Africa,South Africa,0,35
+4653,Peru,Ica,0,30
+4684,Mexico,San Vicente,0,26
+4701,India,Nashik,0,20
+4781,South Africa,Franschhoek,0,35
+4918,Uruguay,Atlantida,0,41
+4919,Bulgaria,Thracian Valley,0,7
+4934,Romania,Tarnave,0,32
+4944,Slovenia,Vipavska Dolina,0,34
+5050,Lebanon,Bekaa Valley,0,23
+5103,South Africa,Elgin,0,35
+5116,Chile,Itata Valley,0,9
+5172,Portugal,Table wine,0,31
+5175,Israel,Samson,0,21
+5182,Austria,Wagram-Donauland,0,4
+5266,US,New Mexico,"98,390",39
+5316,Cyprus,Cyprus,0,12
+5328,Greece,Pageon,0,18
+5375,New Zealand,South Island,0,29
+5390,Greece,Naoussa,0,18
+5404,South Africa,Wellington,0,35
+5592,Bulgaria,Danube River Plains,0,7
+5625,New Zealand,Gisborne,0,29
+5775,Armenia,Armenia,0,2
+5789,Chile,Santa Cruz,0,9
+5958,Romania,Viile Timisului,0,32
+6150,Germany,Baden,0,17
+6185,Turkey,Aegean,0,38
+6416,South Africa,Simonsberg-Paarl,0,35
+6445,Uruguay,Juanico,0,41
+6452,Brazil,Santa Catarina,0,6
+6633,South Africa,Overberg,0,35
+6719,Greece,Atalanti Valley,0,18
+6861,Portugal,Moscatel de Setúbal,0,31
+6873,Greece,Macedonia,0,18
+6889,Portugal,Ribatejo,0,31
+7216,Portugal,Palmela,0,31
+7223,Israel,Galil,0,21
+7312,New Zealand,Waipara,0,29
+7447,South Africa,Olifants River,0,35
+7463,Uruguay,Montevideo,0,41
+7534,Austria,Vienna,0,4
+7797,Hungary,Hungary,0,19
+8388,Chile,Lolol Valley,0,9
+8431,Chile,Cauquenes Valley,0,9
+8550,Austria,Neusiedlersee,0,4
+8645,New Zealand,Wairarapa,0,29
+8738,Portugal,Alenquer,0,31
+8769,US,Arizona,"344,636",39
+8809,US,Washington-Oregon,0,39
+8839,New Zealand,New Zealand,0,29
+8896,Brazil,Serra Gaúcha,0,6
+8897,Uruguay,San Jose,0,41
+9287,Brazil,Vale dos Vinhedos,0,6
+9337,Austria,Mittelburgenland,0,4
+9377,South Africa,Lutzville Valley,0,35
+9443,Chile,Apalta,0,9
+9664,Chile,Malleco,0,9
+9847,Israel,Israel,0,21
+9960,Switzerland,Valais,0,37
+10015,Chile,Choapa Valley,0,9
+10370,Georgia,Georgia,0,16
+10376,Turkey,Ankara,0,38
+10439,Greece,Samos,0,18
+10778,South Africa,Durbanville,0,35
+10945,Austria,Eisenberg,0,4
+11111,Chile,Sagrada Familia,0,9
+11352,Portugal,Obidos,0,31
+11631,Austria,Austria,0,4
+11905,Greece,Patras,0,18
+11961,Germany,Franken,0,17
+12174,Greece,Korinthia,0,18
+12331,Greece,Greece,0,18
+12508,Chile,San Clemente,0,9
+12730,Slovenia,Goriska Brda,0,34
+13090,Greece,Florina,0,18
+13199,Chile,Buin,0,9
+13733,Israel,Haut-Judeé,0,21
+13764,Ukraine,Ukraine,0,40
+13798,US,Ohio,"672,055",39
+13854,US,Colorado,"363,845",39
+14585,Chile,Maipo Valley-Colchagua Valley,0,9
+14969,South Africa,Breedekloof,0,35
+15052,Chile,Leyda Valley-Maipo Valley,0,9
+15172,South Africa,Cederberg,0,35
+15235,US,Vermont,"33,522",39
+15294,Switzerland,Switzerland,0,37
+15370,New Zealand,Waitaki Valley,0,29
+15440,Hungary,Eger,0,19
+15515,Israel,Golan Heights,0,21
+15707,Serbia,Fruška Gora,0,33
+15722,South Africa,Philadelphia,0,35
+16277,Chile,Pirque,0,9
+16390,Portugal,Vinho Espumante de Qualidade,0,31
+16686,Israel,Negev,0,21
+16869,Cyprus,Pitsilia Mountains,0,12
+16871,Germany,Germany,0,17
+16937,New Zealand,East Coast,0,29
+16987,Greece,Mavrodaphne of Patras,0,18
+16997,Greece,Attica,0,18
+17515,Brazil,Brazil,0,6
+17600,Uruguay,Progreso,0,41
+17758,South Africa,Jonkershoek Valley,0,35
+17766,Macedonia,Tikves,0,25
+17794,Brazil,Vale Trentino,0,6
+17798,Croatia,Korčula,0,11
+18311,Turkey,Turkey,0,38
+18399,New Zealand,Waiheke Island,0,29
+18813,Chile,Molina,0,9
+18814,Brazil,Serra do Sudeste,0,6
+19066,Croatia,Dalmatian Coast,0,11
+19070,South Africa,Eilandia,0,35
+19750,Greece,Thraki,0,18
+19829,Chile,Curicó and Maipo Valleys,0,9
+19947,US,Kentucky,"209,562",39
+20453,Serbia,Župa,0,33
+21425,Cyprus,Pafos,0,12
+21484,Greece,Monemvasia,0,18
+21540,Hungary,Szekszárd,0,19
+21820,South Africa,Tulbagh,0,35
+21910,Portugal,Madeira,0,31
+22056,Turkey,Elazığ,0,38
+22070,Turkey,Cappadocia,0,38
+22573,Croatia,Kutjevo,0,11
+22715,Greece,Ismarikos,0,18
+23293,US,Connecticut,"272,745",39
+23294,US,Iowa,"189,299",39
+23390,Greece,Sithonia,0,18
+23602,Chile,Curicó and Leyda Valleys,0,9
+23981,Greece,Agioritikos,0,18
+24092,Chile,Casablanca-Curicó Valley,0,9
+24491,Greece,Beotia,0,18
+24498,Portugal,Algarve,0,31
+24570,South Africa,Hemel en Aarde,0,35
+24978,Greece,Retsina,0,18
+25717,Greece,Amindeo,0,18
+25741,Portugal,Terras do Sado,0,31
+26109,Chile,Coelemu,0,9
+26424,South Africa,Cape South Coast,0,35
+26964,Slovenia,Štajerska,0,34
+27285,Hungary,Sopron,0,19
+27994,US,Michigan,"532,039",39
+28704,Romania,Murfatlar,0,32
+28794,South Africa,Northern Cape,0,35
+29584,Portugal,Vinho da Mesa,0,31
+30072,Croatia,Hvar,0,11
+30086,Greece,Cephalonia,0,18
+31735,Cyprus,Lemesos,0,12
+32448,South Africa,Groenekloof,0,35
+33124,Moldova,Cahul,0,27
+33270,Greece,Cyclades,0,18
+34526,US,North Carolina,"565,300",39
+34757,South Africa,Elim,0,35
+35504,Switzerland,Ticino,0,37
+35582,Portugal,Moscatel do Douro,0,31
+36306,Morocco,Morocco,0,28
+36597,Greece,Achaia,0,18
+36599,South Africa,Polkadraai Hills,0,35
+36850,South Africa,Bot River,0,35
+38169,Greece,Amyndeon,0,18
+38241,Romania,Vânju Mare,0,32
+38247,Croatia,Hrvatsko Primorje,0,11
+39780,Greece,Central Greece,0,18
+40246,Romania,Dealurile Munteniei,0,32
+40820,Slovenia,Dolenjska,0,34
+41064,Bulgaria,Bulgaria,0,7
+41741,Austria,Österreichischer Perlwein,0,4
+42261,Chile,Requinoa,0,9
+42729,Greece,Mavrodaphne de Cephalonie,0,18
+43028,Morocco,Guerrouane,0,28
+43365,Greece,Goumenissa,0,18
+43701,Portugal,Portugal,0,31
+43741,Greece,Messinia,0,18
+43826,Greece,Lakonia,0,18
+43832,Greece,Markopoulo,0,18
+44698,Portugal,Vinho Licoroso,0,31
+45171,Brazil,Campanha,0,6
+46394,South Africa,Paardeberg,0,35
+47976,Mexico,San Antonio de las Minas Valley,0,26
+49222,Croatia,North Dalmatia,0,11
+49466,Slovenia,Kras,0,34
+50441,Greece,Krania Olympus,0,18
+50580,US,Missouri,"316,735",39
+50764,Greece,Corinthia,0,18
+50799,Slovenia,Slovenia,0,34
+51397,Slovenia,Slovenska Istra,0,34
+51493,Cyprus,Commandaria,0,12
+51741,New Zealand,Gladstone,0,29
+52181,Israel,Jerusalem Hills,0,21
+52273,US,Texas,"1,755,634",39
+55908,Greece,Mount Athos,0,18
+56283,Portugal,Colares,0,31
+58252,Chile,Casablanca & Leyda Valleys,0,9
+60136,Austria,Südburgenland,0,4
+60976,South Africa,Cape Peninsula,0,35
+61851,Moldova,Codru Region,0,27
+62055,Greece,Sterea Ellada,0,18
+62066,Greece,Muscat of Patras,0,18
+63281,Greece,Imathia,0,18
+63566,Portugal,Alenteo,0,31
+67266,US,Massachusetts,"569,290",39
+67273,Canada,Canada Other,0,8
+67982,Bosnia and Herzegovina,Mostar,0,5
+72636,South Africa,Malgas,0,35
+73809,Greece,Letrinon,0,18
+74528,Greece,Muscat of Kefallonian,0,18
+74857,Greece,Thessalikos,0,18
+77379,China,China,0,10
+77543,Greece,Limnos,0,18
+77545,Romania,Viile Timis,0,32
+78212,Croatia,Krk,0,11
+78322,Greece,Arcadia,0,18
+78454,South Africa,Cape Agulhas,0,35
+78823,Cyprus,Kathikas,0,12
+78824,Greece,Vin de Pays de Velvendo,0,18
+85693,Greece,Lesbos,0,18
+86953,Portugal,Távora-Varosa,0,31
+90988,Switzerland,Neuchâtel,0,37

@@ -9,18 +9,18 @@ Homework 13, ETL Project
 <br>
 <h4>1.	Create Sql database and tables
   <br>
-  
+
 Script location: ETL-Project/SQL Scripts/WineRatingsDatabase.sql 
 <br>
 <br>
 <br>
 2.	Data cleaning:
 <br>
-1.	WorldBankAPI_GDP.ipynb
+WorldBankAPI_GDP.ipynb
 <br>
-2.	WineData1.ipynb
+WineData1.ipynb
 <br>
-3.	Final_Region_Table
+Final_Region_Table
 <br>
 <br>
 <br>

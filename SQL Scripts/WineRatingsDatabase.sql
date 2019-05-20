@@ -3,30 +3,22 @@ use Wine_Ratings;
 
 ALTER DATABASE Wine_Ratings CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci;
 
-USE Wine_Ratings;
-CREATE TABLE state(testerId
-	stateId int Primary KEY auto_increment,
-	country varchar(50),
-    state varchar(50),
-    GDP VARCHAR (50),
-    countryId varchar(50)
-    );
-ALTER TABLE state CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-ALTER TABLE state CHANGE state state VARCHAR(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-
-SELECT * FROM state;
-
 CREATE TABLE country (
     countryId INT PRIMARY KEY AUTO_INCREMENT,
     country VARCHAR(50),
-    countryCode VARCHAR(2),
+    countryCode Varchar(2),
     GDP DECIMAL(10 , 2 ),
     POP INTEGER
 )
 ;
-
-
-
+CREATE TABLE state(
+	stateId int Primary KEY auto_increment,
+	state varchar(50),
+    GDP VARCHAR (50),
+    countryId int
+    );
+ALTER TABLE state CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+ALTER TABLE state CHANGE state state VARCHAR(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 
 CREATE table taster(
@@ -40,8 +32,34 @@ title varchar (200),
 variety varchar(200),
 points integer,
 price DECIMAL(10 , 2 ),
-countryId integer ,
-testerId integer 
+stateId integer references state(stateId),
+testerId integer references taster(tasterId)
 );
 ALTER TABLE Wine CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
- ALTER TABLE Wine CHANGE Wine title VARCHAR(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+ALTER TABLE Wine CHANGE title wine VARCHAR(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+ 
+ 
+ 
+ 
+ALTER TABLE wine
+ADD INDEX taster_id (testerId ASC);
+;
+ALTER TABLE wine
+ADD CONSTRAINT taster
+  FOREIGN KEY (testerId)
+  REFERENCES taster(tasterID);
+  
+ALTER TABLE wine
+ADD CONSTRAINT state
+  FOREIGN KEY (stateId)
+  REFERENCES state(stateID);
+  
+  
+  ALTER TABLE state
+ADD INDEX country_Id (CountryId ASC);
+;
+ALTER TABLE state
+ADD CONSTRAINT country
+  FOREIGN KEY (countryId)
+  REFERENCES country(countryId);
+
